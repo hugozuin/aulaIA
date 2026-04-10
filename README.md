@@ -12,4 +12,4 @@
 
 ## Trabalhos
 
-- `trabalhos/` — Implementação dos 4 algoritmos de classificação (KNN, Naive Bayes, Árvore de Decisão, Regras) com dataset Gripe
+- `trabalhos/Trabalho_4_Algoritmos.ipynb` — Implementação dos 4 algoritmos de classificação (KNN, Naive Bayes, Árvore de Decisão, Regras) com dataset Gripe
