@@ -1,4 +1,4 @@
-# DesInteligência Artificial
+# Inteligência Artificial
 
 **Turma:** ESOFT7S-N-A  
 **Aluno:** Hugo Vinícius Fonseca Zuin — R.A.: 23000248-2
