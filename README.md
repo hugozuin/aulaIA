@@ -5,10 +5,10 @@
 
 ## Exercícios
 
-- `exercicios/aula000` — Exemplo de software com IA
-- `exercicios/aula002` — Preparação de Dados
-- `exercicios/aula004` — Naive Bayes e Rede Bayesiana
-- `exercicios/aula006` — Algoritmo PRISM (1ª regra para classe soft)
+- `exercicios/Exercicio1_Exemplo_software_com_IA.pdf` — Exemplo de software com IA - Aula 000
+- `exercicios/Exercicios002_Preparcao_de_Dados.pdf` — Preparação de Dados -  Aula 002
+- `exercicios/Aula004_Exercicios_NaiveBayes.ipynb` — Naive Bayes e Rede Bayesiana - Aula 004
+- `exercicios/Aula006_PRISM_soft.ipynb` — Algoritmo PRISM (1ª regra para classe soft) - Aula 006
 
 ## Trabalhos
 
